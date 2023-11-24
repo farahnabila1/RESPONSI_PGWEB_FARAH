@@ -26,10 +26,10 @@ WebGIS ShopSpot Surabaya merupakan sebuah platform berbasis web yang dirancang u
 ## Tangkapan Layar Komponen Penting Produk
 
 1. **Landing Page:**
-   <img src="img/lp1.png" width="200">
-   <img src="img/lp2.png" width="200">
-   <img src="img/lp3.png" width="200">
-   <img src="img/lp4.png" width="200">
+   <img src="img/lp1.png" width="160">
+   <img src="img/lp2.png" width="160">
+   <img src="img/lp3.png" width="160">
+   <img src="img/lp4.png" width="160">
 
 2. **WEBGIS Dengan Elemen Database:**
    <img src="img/webgis.png" width="200">
